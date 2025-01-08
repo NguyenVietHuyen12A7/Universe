@@ -3,17 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Universe </title>
-    <style>
-      body {
-        background-color: black blue;
-        text-aligin: center;
-        padding: 250px;
-      }
-      h1 {
-        font-size: 50px;
-        color: white;
-        }
-    </style>
   </head>
   <body>
     <h1> The Universe Is Unlimited </h1>
