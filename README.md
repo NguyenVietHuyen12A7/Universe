@@ -3,9 +3,9 @@
     <title> Universe </title>
     <style>
       body {
-         background-color: black blue;
-         text-aligin: center;
-         padding: 250px;
+        background-color: black blue;
+        text-aligin: center;
+        padding: 250px;
       }
       h1 {
         font-size: 50px;
